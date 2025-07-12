@@ -1,8 +1,5 @@
 # Arduino LED Toggle Project
-
-![Circuit Diagram](led_toggle.peg)
-
-![Circuit Diagram](circuit_diagram.png)
+![Circuit Diagram](led_toggle.png)
 
 This is a simple Arduino project that uses three buttons to toggle three LEDs independently.
 
@@ -32,6 +29,9 @@ This is a simple Arduino project that uses three buttons to toggle three LEDs in
 - `circuit_diagram.png` → Screenshot of the circuit from Tinkercad.
 
 ---
+
+![Circuit Diagram](circuit_diagram.png)
+
 
 Made with 💡 by Meznah Alammash
 
