@@ -33,6 +33,6 @@ This is a simple Arduino project that uses three buttons to toggle three LEDs in
 ![Circuit Diagram](circuit_diagram.png)
 
 
-Made with 💡 by Meznah Alammash
+Created by Meznah Alammash
 
 
